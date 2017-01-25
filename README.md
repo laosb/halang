@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# HaLang
 
-You can use the [editor on GitHub](https://github.com/laosb/halang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+```halang
+从 「./毛泽东思想」 导入 毛思；
+从 「./邓小平理论」 导入 邓理；
+从 「./三个代表重要思想」 导入 三代；
+从 「./科学发展观」 导入 科观；
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+常量 中特社义理论体系 = {
+    毛思，
+    邓理，
+    三代，
+    科观，
+}；
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+导出 默认 中特社义理论体系；
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+基于 JavaScript 的中文语言。
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/laosb/halang/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[语言定义](definitions.md)
