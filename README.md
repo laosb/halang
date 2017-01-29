@@ -21,4 +21,4 @@
 ## 参考资料
 
 * [语言定义](definitions.md) 正在拟写，欢迎参与本 repo issue 讨论
-* [转译实现](https://github.com/zsxsoft/halang-babylon) @zsxsoft 试图用 babylon 膜改实现解析
+* [转译实现](https://github.com/laosb/hatp) 基于 Acorn 与 Astring 的实现
