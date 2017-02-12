@@ -117,7 +117,7 @@ from 'axios' import { get }; // Also valid!
 
 ## 尝试与捕获
 
-## 字符串
+## 字符串、数字等字面量
 
 ## 其他
 
