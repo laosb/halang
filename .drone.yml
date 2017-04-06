@@ -1,0 +1,8 @@
+pipeline:
+  backend:
+    image: node:7
+    commands:
+      - node -v
+      - npm -v
+      - echo "console.log('Hello!');" | node
+      
